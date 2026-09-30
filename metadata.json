@@ -1,0 +1,7 @@
+{
+  "name": "Bhakti Electronics",
+  "description": "Premium mobile phone, electronics, home appliance and accessories retailer in Shalimar Bagh, Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
